@@ -46,7 +46,8 @@ It needs a configuration file containing all access keys:
     }
   }
 }
-```# ## Dependencies
+```
+### Dependencies
 
 ```
 import argparse
